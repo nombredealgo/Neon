@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3d39ec4da88cdd4f0259ef22f62fdc21:1a4bab4f6f51c661481dfa837e2f0a24:56596408fb0729e3cdad720e037e4c17$ -->
+<TextureAtlas imagePath="laser.png">
+    <SubTexture name="laser1.1" x="2" y="2" width="139" height="644"/>
+    <SubTexture name="laser1.2" x="143" y="2" width="139" height="644"/>
+    <SubTexture name="laser2.1" x="284" y="2" width="644" height="139"/>
+    <SubTexture name="laser2.2" x="2" y="648" width="644" height="139"/>
+    <SubTexture name="laser3.1" x="648" y="648" width="139" height="644"/>
+    <SubTexture name="laser3.2" x="789" y="648" width="139" height="644"/>
+    <SubTexture name="laser4.1" x="2" y="1294" width="644" height="139"/>
+    <SubTexture name="laser4.2" x="2" y="1435" width="644" height="139"/>
+</TextureAtlas>

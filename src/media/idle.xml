@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:2bff6b4a820e9193aa9c63bf9cd80b8b:b118a4134f244019c9ddd9aee439e3cc:9f5c17b1edcaef90ffec515cc3bb7e6f$ -->
+<TextureAtlas imagePath="idle.png">
+    <SubTexture name="corriendo1" x="2" y="2" width="49" height="59"/>
+    <SubTexture name="corriendo2" x="53" y="2" width="49" height="59"/>
+    <SubTexture name="corriendo3" x="104" y="2" width="49" height="59"/>
+    <SubTexture name="corriendo4" x="155" y="2" width="49" height="59"/>
+    <SubTexture name="corriendo5" x="2" y="63" width="49" height="59"/>
+    <SubTexture name="corriendo6" x="53" y="63" width="49" height="59"/>
+    <SubTexture name="corriendo7" x="104" y="63" width="49" height="59"/>
+    <SubTexture name="corriendo8" x="155" y="63" width="49" height="58"/>
+    <SubTexture name="espadamov0" x="2" y="124" width="102" height="62"/>
+    <SubTexture name="espadamov1" x="106" y="124" width="102" height="62"/>
+    <SubTexture name="espadamov2" x="2" y="188" width="102" height="62"/>
+    <SubTexture name="protaidle1" x="106" y="188" width="32" height="59"/>
+    <SubTexture name="protaidle2" x="139" y="187" width="32" height="59"/>
+    <SubTexture name="protaidle3" x="173" y="187" width="32" height="59"/>
+    <SubTexture name="protaidle4" x="206" y="188" width="32" height="59"/>
+</TextureAtlas>

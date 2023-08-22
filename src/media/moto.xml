@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:4c607bd0148d47437d0ae833cb194f77:6dab25adda843eb98f59244fc3852354:1527ea46aa9f23ac37cd158eed172741$ -->
+<TextureAtlas imagePath="moto.png">
+    <SubTexture name="moto1" x="2" y="2" width="101" height="49"/>
+    <SubTexture name="moto2" x="105" y="2" width="113" height="48"/>
+    <SubTexture name="proyectil1" x="278" y="2" width="52" height="35" frameX="0" frameY="-1" frameWidth="52" frameHeight="36"/>
+    <SubTexture name="proyectil2" x="221" y="2" width="56" height="36"/>
+</TextureAtlas>

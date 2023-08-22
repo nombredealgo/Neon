@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:05ba4b6ba2cbcd59102f759620a68bd1:74f5cced074632a5f272aa013d2bbb37:c7d889d93c58f7b07bdc29755e65a70b$ -->
+<TextureAtlas imagePath="cerebro.png">
+    <SubTexture name="cerebro1" x="2" y="2" width="53" height="70"/>
+    <SubTexture name="cerebro2" x="57" y="2" width="53" height="70"/>
+    <SubTexture name="cerebro3" x="112" y="2" width="53" height="70"/>
+    <SubTexture name="cerebro4" x="167" y="2" width="53" height="70"/>
+    <SubTexture name="cerebro5" x="2" y="74" width="53" height="70"/>
+    <SubTexture name="cerebro6" x="2" y="74" width="53" height="70"/>
+    <SubTexture name="cerebro7" x="2" y="2" width="53" height="70"/>
+    <SubTexture name="explosion1" x="57" y="74" width="78" height="60"/>
+    <SubTexture name="explosion2" x="137" y="74" width="78" height="60"/>
+    <SubTexture name="explosion3" x="2" y="146" width="78" height="60"/>
+    <SubTexture name="explosion4" x="82" y="146" width="78" height="60"/>
+</TextureAtlas>

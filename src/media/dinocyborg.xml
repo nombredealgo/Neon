@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:1bd3439014211cbcfe4c3b5953ca4ad5:89c83537c659be744dbda40a4661a9ae:58aeeecfda0ccb3a2d04e11af6569ae1$ -->
+<TextureAtlas imagePath="dinocyborg.png">
+    <SubTexture name="dc1" x="2" y="2" width="128" height="93"/>
+    <SubTexture name="dc2" x="132" y="2" width="128" height="93"/>
+    <SubTexture name="dc3" x="262" y="2" width="128" height="93"/>
+    <SubTexture name="dc4" x="2" y="97" width="128" height="93"/>
+    <SubTexture name="dc5" x="132" y="97" width="128" height="93"/>
+    <SubTexture name="dc6" x="262" y="97" width="128" height="93"/>
+    <SubTexture name="dc7" x="2" y="192" width="128" height="93"/>
+    <SubTexture name="dc8" x="132" y="192" width="128" height="93"/>
+    <SubTexture name="dc9" x="262" y="192" width="128" height="93"/>
+</TextureAtlas>
